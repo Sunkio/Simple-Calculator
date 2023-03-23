@@ -1,5 +1,5 @@
 {
-  "name": "reactlab",
+  "name": "Simple Calculator",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",

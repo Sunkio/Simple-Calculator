@@ -34,7 +34,7 @@ function App() {
  
   function resetResult(e) {
     e.preventDefault();
-    setResult((result) => null);
+    setResult((result) => 0);
   }; 
  
   return ( 
