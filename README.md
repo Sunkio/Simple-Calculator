@@ -71,7 +71,7 @@ Now, open your browser and navigate to [http://localhost:3000](http://localhost:
 
 ## Contributing
 
-Contributions are always welcome! If you'd like to contribute to this project or have any suggestions, feel free to create a new issue or submit a pull request. Please check the [Code of Conduct](./CODEOFCONDUCT.md) first.
+Contributions are always welcome! If you'd like to contribute to this project or have any suggestions, feel free to create a new issue or submit a pull request. Please check the [Code of Conduct](./CODE_OF_CONDUCT.md) first.
 
 To submit a pull request, follow these steps:
 1. Fork the repository
